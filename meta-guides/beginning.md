@@ -1,4 +1,3 @@
-# Welcome to **Oxygen Not Included**
 ## Let's Start At the Beginning
 
 ONI is first a survival game, then a building game, then colony management, finally it is about managing large, complex projects. Oh, and you still have to do all the other things, like survive. You will learn that many things that mattered early in the game simply don't anymore at cycle 100 or 1000.
@@ -17,13 +16,13 @@ I divide the game into the following phases. Once you pass specific milestones y
 
 - Space - to infinity & beyond.
 
-## Maslow's Hierarchy of Needs for the Beginning Phase.
+## Maslow's Hierarchy of Needs - Beginning
 
 There are a lot of problems in ONI that you have to solve. In the beginning, your problems are pretty simple. *Sleep, Eat & Breath*
 
 1. Shelter/Base - You probably figured out the cots and latrines already. But you need to start thinking LONG term on how to structure things. First, while it may not look like it, you have a TON of space to work with. Use it. Also, you will find that it is much easier as the game progresses to keep things fairly standard. 4x16 or 4x24 rooms that stack up & down. between these blocks I have 5 spaces (though 3 is also ok).
 
-4x16 Block |WALL| - space - ladder - tube - fire pole - space - |WALL| 4x24 block
+    4x16 Block |WALL| - space - ladder - tube - fire pole - space - |WALL| 4x24 block
 
 2. Oxygen - You will have tons of algae. Use it for diffusers. Don't build an electrolyzer early, you don't need it and it will add heat to your base. You can use diffusers for a long time.
 
@@ -33,4 +32,4 @@ There are a lot of problems in ONI that you have to solve. In the beginning, you
 
 5. Plumbing - Find some water. Put a pitcher pump in it. then start to gather all the water on your map into some reservoirs. Always put a top/cover/lid on your reservoir so crap doesn’t fall into it. Learn to build natural reservoirs and do it frequently as you expand. Soon you will have lots of them all pumping around to each other. Eventually you will have a main clean water tank, a few backup tanks, and large reservoirs of other various liquids.
 
-Once you g
+Slow and steady is now the key to beating the game. Every save, probably daily, develop a routine of things to check. Then you can go focus on building something new. That will ensure you dont get surprised. Once you are food positive and have a good hang for the game, you are ready to tackle the [Early Game.](./meta-guides/early.md) 
