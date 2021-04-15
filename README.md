@@ -33,6 +33,17 @@ These are short guides that are much less polished. They are basically just some
 - [Infinite Storage](./mini-guides/infinite-storage.png)
 - [Scanner Network](./mini-guides/scanner-network.png)
 
+# Meta-guides
+
+These are short guides that provide higher level tips on how to survive the 5 discrete phases of ONI.
+
+- [Beginning](./meta-guides/beginning.md)
+- [Early Game](./meta-guides/early.md)
+- [Manufacturing](./meta-guides/manufacturing.md)
+- [Petroleum](./meta-guides/petroleum.md)
+- [Space](./meta-guides/space.md)
+
+
 # Sources
 
 A lot of the information in my guides comes from ideas in the community and other content creators. I do my best to mention the sources used at the end of each guide. The entire list is here (in alphabetical order):
