@@ -1,5 +1,5 @@
-#Welcome to **Oxygen Not Included**
-##Let's Start At the Beginning
+# Welcome to **Oxygen Not Included**
+## Let's Start At the Beginning
 
 ONI is first a survival game, then a building game, then colony management, finally it is about managing large, complex projects. Oh, and you still have to do all the other things, like survive. You will learn that many things that mattered early in the game simply don't anymore at cycle 100 or 1000.
 
@@ -8,12 +8,16 @@ So, first, only play on terra & easy mode until you get a feel for the game. Wit
 I divide the game into the following phases. Once you pass specific milestones you move into the next phase. The nature of the game often changes at these milestones.
 
 - Beginning - this is start until you begin to define the structure of your base. Probably only lasts 10-15 cycles. Plan & think in sub-cycle timeframes. Focus on immediate survival needs.
+
 - Early Game - This is when you start to build your initial base blocks. Start thinking  in a structured format and in cycle time frames. Increasing food stability, O2 generation, & power generation are the main focus.
+
 - Manufacturing - Here you should have contained your initial base in insulated tiles. You should have a fully sustainable base with regards to oxygen, food, & power. You should be starting to make steel. Dups will spend lots of time in atmo suits. You now should have “large construction projects."
+
 - Petroleum - You have mastered the petroleum biome meaning that you are creating plastic constantly, can generate as much power as necessary, and have complete control of your environmentals especially temperature
+
 - Space - to infinity & beyond.
 
-##Maslow's Hierarchy of Needs for the Beginning Phase.
+## Maslow's Hierarchy of Needs for the Beginning Phase.
 
 There are a lot of problems in ONI that you have to solve. In the beginning, your problems are pretty simple. *Sleep, Eat & Breath*
 
